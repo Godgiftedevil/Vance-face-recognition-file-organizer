@@ -1,5 +1,10 @@
 # Face Organizer — Offline Face-Recognition Photo Organizer
 
+<p align="center">
+  <img src="demo2.gif" width="700">
+</p>
+
+
 Automatically group a large personal photo collection by detected faces — similar to Google Photos face grouping — but **fully offline**, with no cloud APIs or paid services.
 
 ---
